@@ -14,17 +14,17 @@ import { FaBlogger, FaFacebook } from "react-icons/fa";
 const socialLinks = [
   // { href: `https://wa.me/${companyDetails.whatsapp}`, Icon: BsWhatsapp },
   {
-    href: `https://wa.me/916300021466?text=Hello,%20I’m%20interested%20in%20your%20services`,
+    href: `https://wa.me/9945973151?text=Hello,%20I’m%20interested%20in%20your%20services`,
     Icon: BsWhatsapp,
   },
-  { href: "https://www.instagram.com/volloinc", Icon: BsInstagram },
-  { href: "https://x.com/volloinc", Icon: BsTwitterX },
+  { href: "", Icon: BsInstagram },
+  { href: "", Icon: BsTwitterX },
   {
-    href: "https://www.facebook.com/profile.php?id=61567771517035&mibextid=ZbWKwL",
+    href: "",
     Icon: FaFacebook,
   },
-  { href: "https://www.linkedin.com/company/vollo-inc", Icon: BsLinkedin },
-  { href: "https://volloinc.blogspot.com", Icon: FaBlogger },
+  { href: "", Icon: BsLinkedin },
+  { href: "", Icon: FaBlogger },
 ];
 
 const Footer = () => {
