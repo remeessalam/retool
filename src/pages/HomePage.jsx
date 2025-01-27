@@ -1,5 +1,5 @@
 import CompanyAchievements from "../components/CompanyAchievements";
-import FounderSection from "../components/MeetCeo";
+// import FounderSection from "../components/MeetCeo";
 import WhyChooseUs from "../components/WhyChooseUs";
 import About from "./HomePageSections/About";
 import Banner from "./HomePageSections/Banner";
@@ -15,7 +15,7 @@ const HomePage = () => {
       <CompanyAchievements />
       <Services />
       <MeetCompany />
-      <FounderSection />
+      {/* <FounderSection /> */}
       <WhyChooseUs />
       <CompanyApproach />
     </>

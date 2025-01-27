@@ -8,7 +8,7 @@ import { images } from "../../constant";
 
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
-  const { Logo, phonenumbersvg } = images;
+  const { Logo } = images;
   const toggleDrawer = () => {
     setIsOpen(!isOpen);
   };

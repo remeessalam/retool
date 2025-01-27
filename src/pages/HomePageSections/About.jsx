@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 // import RoundedHeading from "../../components/RoundedHeading";
-import { appDevelopmentServices, images } from "../../constant";
+import { images } from "../../constant";
 import mission from "../../assets/images/png/mission.png";
 import vission from "../../assets/images/png/vission.png";
 
@@ -70,8 +70,8 @@ const About = () => {
         >
           <img
             src={homepageaboutus}
-            alt={homepageaboutus}
-            className="max-h-[500px] w-full object-cover rounded-xl"
+            alt={"homepageaboutus"}
+            className="max-h-[500px] h-[31rem] w-full object-cover rounded-xl"
           />
         </div>
       </div>

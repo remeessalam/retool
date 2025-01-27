@@ -41,7 +41,7 @@ const Services = () => {
               <div
                 data-aos={animationType}
                 key={obj.id}
-                className="relative bg-white  hover:bg-gradient-to-b from-[#967BB3] to-[#B9A7CC] h-full   rounded overflow-hidden shadow-lg border border-slate-100 flex justify-center items-center"
+                className="relative bg-white group  hover:bg-gradient-to-b from-secondary to-primary h-full   rounded overflow-hidden shadow-lg border border-slate-100 flex justify-center items-center"
               >
                 {/* <div className="m-4 min-h-full"> */}
                 <div className="flex flex-col p-4 aspect-auto justify-between min-h-full text-center items-center">
@@ -51,7 +51,9 @@ const Services = () => {
                   <h2 className="text-head font-bold text-center ">
                     {obj.title}
                   </h2>
-                  <p className="text-desc">{obj.paragraph}</p>
+                  <p className="text-desc line-clamp-4 group-hover:text-white">
+                    {obj.description}
+                  </p>
                   <Link
                     to={"/services"}
                     // onClick={() => handleSelectServiceToShowDetail(obj)}
@@ -61,12 +63,6 @@ const Services = () => {
                   </Link>
                   {/* </div> */}
                 </div>
-                {/* <p>{obj.description}</p> */}
-                {/* <img
-                src={obj.img || homepageaboutus}
-                alt={obj.img || homepageaboutus}
-                className="absolute w-full h-full object-cover  opacity-0 hover:opacity-100 transition-opacity duration-1000"
-              /> */}
               </div>
             );
           })}

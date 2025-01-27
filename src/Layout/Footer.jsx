@@ -42,7 +42,7 @@ const Footer = () => {
         {/* Logo Section */}
         <div className="bg-black w-full md:w-1/4 p-8 py-20  flex items-center justify-center">
           <Link href="/" className="text-white text-3xl font-light">
-            <img src={Logo} alt="logo" className="max-h-[5rem]" />
+            <img src={Logo} alt="logo" className="max-h-[7rem]" />
           </Link>
         </div>
 

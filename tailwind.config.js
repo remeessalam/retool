@@ -28,15 +28,15 @@ export default {
       },
       colors: {
         // 'primary': '#5B6CFF',
-        primary: "#967BB3",
-        secondary: "#B9A7CC",
-        tertiary: "#2773A7",
+        primary: "#4464e2",
+        secondary: "#30a2d9",
+        // tertiary: "#2773A7",
         rounderheadingbg: "#eae1ef",
         primarygradient: "#adf4cb",
         decsriptioncolor: "#747474",
         headerandfooterbg: "#000E29",
         footerparacolor: "#A3A6AE",
-        customPurple: "rgb(150,123,179)",
+        // customPurple: "rgb(150,123,179)",
       },
       backgroundImage: {
         buttonBackground:

@@ -1,8 +1,4 @@
-import { images } from "../constant";
-// import projectdone from "../assets/images/svg/projectsdone.svg";
-// import proteam from "../assets/images/svg/proteam.svg";
-// import customers from "../assets/images/svg/customers.svg";
-import backgroundimage from "../assets/images/overvaluesbg.png";
+import backgroundimage from "../assets/images/overvaluesbg.jpg";
 import Counter from "./Counter";
 import { Link } from "react-router-dom";
 
@@ -37,7 +33,6 @@ const countDetails = [
   },
 ];
 const CompanyAchievements = () => {
-  const { companyachievementsimage } = images;
   return (
     <div
       data-aos="fade-up"
@@ -78,16 +73,12 @@ const CompanyAchievements = () => {
               data-aos="fade-left"
               className="flex flex-col py-5 items-center justify-center sm:items-start border border-slate-500 bg-white/10 rounded-xl"
             >
-              {/* <div className="flex h-[64px] w-[64px] bg-white rounded-full shadow-2xl  justify-center items-center">
-              <img src={obj.} alt="proteam" />
-            </div> */}
               <h1 className="text-[57px] w-full">
                 <Counter targetNumber={obj.count} suffix={obj.suffix} />
               </h1>
               <h5 className="text-[#D3D3D3] text-shadow text-center text-[17px] sm:text-[21px] font-bold w-full">
                 {obj.title}
               </h5>
-              {/* <p className="text-center text-white">{obj.p} </p> */}
             </div>
           ))}
         </div>

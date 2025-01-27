@@ -1,41 +1,17 @@
-// import ReactPlayer from "react-player";
 import { images, whyChooseUs } from "../constant";
-// import RoundedHeading from "./RoundedHeading";
-// import video from "../assets/video/whychooseusbackground.mp4";
+
 const WhyChooseUs = () => {
-  // const { whychooseusimg } = landingpageimages;
   const { whychooseusbackground } = images;
   return (
     <div
       className="relative mt-1 sm:mt-16 py-[4rem]  w-[100vw] bg-cover bg-right bg-no-repeat text-black"
       style={{ backgroundImage: `url(${whychooseusbackground})` }}
     >
-      <div className="absolute top-0 left-0 w-full h-full bg-white/90 lg:bg-white/50" />
-      {/* <ReactPlayer
-        url={video}
-        loop={true}
-        playsinline
-        playing={true}
-        width="100%"
-        height="100%"
-        muted
-        className="absolute react-player"
-      /> */}
+      <div className="absolute top-0 left-0 w-full h-full bg-white/90 lg:bg-white/10" />
 
       {/* <div className="absolute top-0 w-full h-full bg-primary/30"></div> */}
       <div className=" grid  grid-cols-3  adjustedwidth mx-auto items-center">
-        {/* <div className="w-[45%]">
-          <div className="w-full ">
-            <img
-              src={whychooseusimg}
-              className="object-contain min-w-full max-h-[20rem] mx-auto"
-              alt="why choose us"
-            />
-            I want to change the image as well.
-          </div>
-        </div> */}
         <div className="w-full col-span-3 sm:col-span-2 sm:w-[100%]">
-          {/* <RoundedHeading text={" Why Choose Us"} /> */}
           <h2
             data-aos="fade-up"
             className="text-smhead text-black sm:text-start text-center leading-tight"
@@ -67,7 +43,7 @@ const WhyChooseUs = () => {
                     className=" w-full h-full"
                   >
                     <div className="flex w-full text-start items-center  gap-3">
-                      <div className="min-w-[60px] h-[60px] bg-white flex justify-center items-center rounded-lg">
+                      <div className="min-w-[60px] h-[60px]  flex justify-center items-center rounded-lg">
                         <img
                           src={obj.icon}
                           className="h-[3rem] object-contain "
@@ -81,64 +57,7 @@ const WhyChooseUs = () => {
                     </p>
                   </div>
                 ))}
-                {/* <div
-                  data-aos="fade-right"
-                  className="p-5 border border-primary rounded-xl w-full h-full"
-                >
-                  <div className="flex w-full text-start items-center justify-between gap-3">
-                    <h5 className="text-7xl">{whyChooseUs[1].heading}</h5>
-                    <img
-                      src={target}
-                      className="h-[3rem] object-contain mb-3"
-                      alt=""
-                    />
-                  </div>
-                  <p className="desc text-black text-start mt-3">
-                    {whyChooseUs[1].description}
-                  </p>
-                </div> */}
               </div>
-              {/* <div data-aos="fade-up" className="w-full lg:block hidden">
-              <img
-                src={whychooseusimg}
-                className="object-contain max-h-[25rem] mx-auto"
-                alt="why choose us"
-              />
-            </div> */}
-              {/* <div className="flex flex-col gap-5 h-full">
-                <div
-                  data-aos="fade-left"
-                  className="p-5 border  border-primary rounded-xl w-full h-full"
-                >
-                  <div className="flex w-full text-start items-center justify-between gap-3">
-                    <h5 className="text-7xl">{whyChooseUs[2].heading}</h5>
-                    <img
-                      src={expert}
-                      className="h-[3rem] object-contain mb-3"
-                      alt=""
-                    />
-                  </div>
-                  <p className="desc text-black text-start mt-3">
-                    {whyChooseUs[2].description}
-                  </p>
-                </div>
-                <div
-                  data-aos="fade-left"
-                  className="p-5 border  border-primary  rounded-xl w-full h-full"
-                >
-                  <div className="flex w-full text-start items-center justify-between gap-3">
-                    <h5 className="text-7xl">{whyChooseUs[3].heading}</h5>
-                    <img
-                      src={cogwheel}
-                      className="h-[3rem] object-contain mb-3"
-                      alt=""
-                    />
-                  </div>
-                  <p className="desc text-black text-start mt-3">
-                    {whyChooseUs[3].description}
-                  </p>
-                </div>
-              </div> */}
             </div>
           </div>
         </div>
