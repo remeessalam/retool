@@ -158,12 +158,16 @@ const Testimonials = () => {
                 className="keen-slider__slide flex flex-col justify-between   h-full  shadow-lg w-full bg-white/90 rounded-2xl round p-7 border  border-gray-400"
               >
                 <div className="w-full sm:flex-row flex-col gap-3 sm:gap-0 flex justify-between items-center">
-                  <img src={obj.starimg} alt={obj.name} className="h-[31px]" />
+                  <img
+                    src={obj.starimg}
+                    alt={obj.name}
+                    className="h-[31px] grayscale"
+                  />
                 </div>
                 <div className="my-5">
                   {/* <h3 className="text-head">{obj.about}</h3> */}
-                  <p className="text-center sm:text-start text-desc text-purple-600">
-                    {obj.says}
+                  <p className="text-center sm:text-start text-desc text-primary">
+                    {obj?.says}
                   </p>
                 </div>
                 <div className="flex items-center gap-2 text-black">

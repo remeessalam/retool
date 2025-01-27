@@ -46,7 +46,7 @@ const WhyChooseUs = () => {
                       <div className="min-w-[60px] h-[60px]  flex justify-center items-center rounded-lg">
                         <img
                           src={obj.icon}
-                          className="h-[3rem] object-contain "
+                          className="h-[3rem] object-contain grayscale"
                           alt=""
                         />
                       </div>

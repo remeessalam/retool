@@ -34,7 +34,13 @@ const About = () => {
           </div>
           <div data-aos="fade-up" className="flex gap-4">
             <div className="min-w-[60px] h-[60px] bg-white flex justify-center items-center rounded-lg">
-              <img src={mission} alt="icon" width={40} height={40} />
+              <img
+                src={mission}
+                alt="icon"
+                width={40}
+                height={40}
+                className="grayscale"
+              />
             </div>
             <div className="flex flex-col pt-3">
               <h3 className="text-head"> Mission</h3>
@@ -47,7 +53,13 @@ const About = () => {
           </div>
           <div data-aos="fade-up" className="flex gap-4">
             <div className="min-w-[60px] h-[60px] bg-white flex justify-center items-center rounded-lg">
-              <img src={vission} alt="icon" width={40} height={40} />
+              <img
+                src={vission}
+                alt="icon"
+                width={40}
+                height={40}
+                className="grayscale"
+              />
             </div>
             <div className="flex flex-col pt-3">
               <h3 className="text-head"> Vision</h3>

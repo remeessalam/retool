@@ -1,7 +1,7 @@
 import CommonBanner from "../components/CommonBanner";
 import FAQSection from "../components/Faq";
 import { images } from "../constant";
-import CompanyAddress from "./ContactPageSections/CompanyAddress";
+// import CompanyAddress from "./ContactPageSections/CompanyAddress";
 import ContactForm from "./ContactPageSections/ContactForm";
 
 const ContactPage = () => {

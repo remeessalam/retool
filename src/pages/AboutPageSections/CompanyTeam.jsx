@@ -44,9 +44,13 @@ const CompanyTeam = () => {
             </h3>
             <h3 className="text-head sm:text-8xl">Meet our team</h3>
             <p className="text-desc">
-              Meet our team! A dynamic group of professionals dedicated to
-              excellence and innovation. Each member brings unique skills and
-              expertise, working together to achieve exceptional results.
+              The success of our company comes down to the talented individuals
+              who make up our team. We’re a diverse group of developers,
+              designers, engineers, and strategists who are passionate about
+              what we do. We believe in fostering a culture where creativity,
+              collaboration, and continuous learning are encouraged. By
+              empowering our team to think big and challenge the norm, we bring
+              fresh perspectives to every project we work on.
             </p>
           </div>
           <div className="mt-4 col-span-1 lg:col-span-2">

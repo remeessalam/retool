@@ -49,6 +49,7 @@ const Banner = () => {
               alt=""
               width={40}
               height={40}
+              className="grayscale"
             />
           </div>
           <h4 data-aos="fade-up" className="text-head text-center">
@@ -68,6 +69,7 @@ const Banner = () => {
               alt=""
               width={40}
               height={40}
+              className="grayscale"
             />
           </div>
           <h4 data-aos="fade-up" className="text-head text-center">
@@ -87,6 +89,7 @@ const Banner = () => {
               alt=""
               width={40}
               height={40}
+              className="grayscale"
             />
           </div>
           <h4 data-aos="fade-up" className="text-head">

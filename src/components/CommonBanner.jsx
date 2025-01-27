@@ -3,7 +3,7 @@ import { IoIosArrowForward } from "react-icons/io";
 import ReactPlayer from "react-player";
 import { Link, useLocation } from "react-router-dom";
 // import { Link } from "react-router-dom";
-
+// eslint-disable-all-line
 const CommonBanner = ({
   video,
   title,
@@ -50,19 +50,19 @@ const CommonBanner = ({
             <div className="">
               <h1
                 data-aos="fade-up"
-                className="whitetextshadow text-black  text-smhead px-5 sm:pl-10 leading-tight uppercase"
+                className="blacktextshadow text-white  text-smhead px-5 sm:pl-10 leading-tight uppercase"
               >
                 {page}
               </h1>
               <h1
                 data-aos="fade-up"
-                className="text-black px-5 sm:pl-10 text-smallxl sm:text-1xl leading-tight"
+                className="text-white px-5 sm:pl-10 text-smallxl sm:text-1xl leading-tight"
               >
                 {heading}
               </h1>
               <p
                 data-aos="fade-up"
-                className="text-black whitetextshadow font-semibold  text-desc px-5 sm:pl-10 mt-5"
+                className="text-white blacktextshadow font-semibold  text-desc px-5 sm:pl-10 mt-5"
               >
                 {description}
               </p>

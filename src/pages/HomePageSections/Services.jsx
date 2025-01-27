@@ -46,7 +46,13 @@ const Services = () => {
                 {/* <div className="m-4 min-h-full"> */}
                 <div className="flex flex-col p-4 aspect-auto justify-between min-h-full text-center items-center">
                   <div className="flex justify-center items-center rounded-lg w-[60px] min-h-[60px] bg-white">
-                    <img src={obj.img} alt="" width={40} height={40} />
+                    <img
+                      src={obj.img}
+                      alt=""
+                      width={40}
+                      height={40}
+                      className="grayscale"
+                    />
                   </div>
                   <h2 className="text-head font-bold text-center ">
                     {obj.title}
