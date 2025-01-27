@@ -48,7 +48,7 @@ const Header = () => {
               <div className="flex justify-center items-center min-w-fit">
                 <img
                   src={Logo}
-                  className="h-[1rem] md:h-[2.75rem] "
+                  className="h-[3rem] md:h-[4.25rem] "
                   alt="logo"
                 />
                 {/* <h1 className="text-[32px] font-bold min-w-[8rem]">
