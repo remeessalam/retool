@@ -131,11 +131,12 @@ export const socialmediaIcons = [
 ];
 
 export const companyDetails = {
-  address: "  Andhra Pradesh ,india- 534236",
-  phone: "+91-6300021466",
-  whatsapp: "6300021466",
+  address:
+    "101, Oxford Towers, 139, HAL Old Airport Rd, Kodihalli, Bengaluru, Karnataka 560008",
+  phone: "+91-9945973151",
+  whatsapp: "9945973151",
   link: "🌐 Website: RETOOL.com",
-  email: "RETOOL@gmail.com",
+  email: "example@abc.com",
 };
 
 export const ourServices = [
@@ -384,126 +385,6 @@ export const faqItems = [
     answer: `At RETOOL, we focus on delivering cutting-edge, custom solutions tailored to your business needs. Our approach combines deep industry expertise with a focus on innovation and customer satisfaction, ensuring we always exceed expectations.`,
   },
 ];
-
-// export const testimonials = [
-//   {
-//     id: 1,
-//     img: testimonialsuserimage,
-//     starimg: fullstart,
-//     name: "Rachel B.",
-//     position: "CTO",
-//     says: "RETOOL's AI solutions have been revolutionary for our business. Their deep understanding of AI and machine learning helped us optimize our processes and make smarter decisions, saving both time and resources. The impact has been immediate and measurable!",
-//     about: "Artificial Intelligence (AI)",
-//   },
-//   {
-//     id: 2,
-//     img: testimonialsuserimage,
-//     starimg: fullstart,
-//     name: "James T.",
-//     position: "Founder",
-//     says: "We were impressed with how quickly RETOOL understood our vision and transformed it into a user-friendly mobile app. Their team was collaborative and responsive, and the end result has truly enhanced our customer engagement.",
-//     about: "Mobile App Development",
-//   },
-//   {
-//     id: 3,
-//     img: testimonialsuserimage,
-//     starimg: fullstart,
-//     name: "Linda P.",
-//     position: "Marketing Director",
-//     says: "Our website went from basic to outstanding thanks to RETOOL The team not only delivered a stunning and functional design, but they also ensured it was mobile-friendly and optimized for SEO. It has significantly boosted our online traffic.",
-//     about: "Website Development",
-//   },
-//   {
-//     id: 4,
-//     img: testimonialsuserimage,
-//     starimg: fullstart,
-//     name: "David F.",
-//     position: "Head of Product Design",
-//     says: "Working with RETOOL on UI/UX design was an amazing experience. They really listened to our needs and created a beautiful, intuitive design that’s easy for our users to navigate. The result speaks for itself—our customer satisfaction scores have skyrocketed!",
-//     about: "UI/UX Design",
-//   },
-//   {
-//     id: 5,
-//     img: testimonialsuserimage,
-//     starimg: fullstart,
-//     name: "Priya M.",
-//     position: "Operations Manager",
-//     says: "RETOOL delivered custom software that was precisely what we needed to run our business efficiently. The team worked closely with us to understand our unique challenges and created a solution that fits perfectly into our workflow.",
-//     about: "Custom Software Development",
-//   },
-//   {
-//     id: 6,
-//     img: testimonialsuserimage,
-//     starimg: fullstart,
-//     name: "Oscar L.",
-//     position: "CEO",
-//     says: "The data analytics services from RETOOL were invaluable. Their team helped us turn our raw data into actionable insights, enabling us to improve our marketing efforts and operational efficiency. The results speak for themselves!",
-//     about: "Data Analytics",
-//   },
-//   {
-//     id: 7,
-//     img: testimonialsuserimage,
-//     starimg: fullstart,
-//     name: "Sophia J.",
-//     position: "VP of Operations",
-//     says: "RETOOL helped us implement IoT solutions that transformed how we monitor and manage our equipment. The real-time data and improved visibility into our operations have made a huge difference in our efficiency and decision-making.",
-//     about: "Internet of Things (IoT)",
-//   },
-//   {
-//     id: 8,
-//     img: testimonialsuserimage,
-//     starimg: fullstart,
-//     name: "Chris D.",
-//     position: "Head of Business Operations",
-//     says: "Thanks to RETOOL, we’ve automated several time-consuming processes, freeing up our team to focus on strategic work. Their RPA solution is seamless and highly effective—everything runs more smoothly now.",
-//     about: "Robotic Process Automation (RPA)",
-//   },
-//   {
-//     id: 9,
-//     img: testimonialsuserimage,
-//     starimg: fullstart,
-//     name: "Zara N.",
-//     position: "Marketing Executive",
-//     says: "RETOOL’s AR and VR solutions were a game-changer for our marketing strategy. The interactive experiences they created have not only boosted customer engagement but also helped us educate our clients in a whole new way.",
-//     about: "Augmented Reality (AR) & Virtual Reality (VR)",
-//   },
-//   {
-//     id: 10,
-//     img: testimonialsuserimage,
-//     starimg: fullstart,
-//     name: "Toby H.",
-//     position: "Co-Founder",
-//     says: "The game development team at RETOOL brought our vision to life with incredible creativity and technical expertise. Our game is now one of the top downloads in our category, and we’ve received fantastic feedback from players.",
-//     about: "Game Development",
-//   },
-//   {
-//     id: 11,
-//     img: testimonialsuserimage,
-//     starimg: fullstart,
-//     name: "Liam W.",
-//     position: "Founder",
-//     says: "RETOOL introduced us to blockchain solutions that enhanced the security and transparency of our transactions. Their expertise in the space helped us develop a system that is both efficient and highly secure.",
-//     about: "Blockchain Solutions",
-//   },
-//   {
-//     id: 12,
-//     img: testimonialsuserimage,
-//     starimg: fullstart,
-//     name: "Alicia M.",
-//     position: "CIO",
-//     says: "We’ve been using RETOOL’s cloud services for months now, and the difference is incredible. Our operations are smoother, collaboration has improved, and the scalability of the platform ensures that we’re ready for whatever comes next.",
-//     about: "Cloud Services",
-//   },
-//   {
-//     id: 13,
-//     img: testimonialsuserimage,
-//     starimg: fullstart,
-//     name: "Frank L.",
-//     position: "IT Manager",
-//     says: "RETOOL has provided us with robust cybersecurity solutions that keep our data safe and secure. We now have peace of mind knowing that our systems are protected against emerging threats, and their proactive approach to security is invaluable.",
-//     about: "Cybersecurity",
-//   },
-// ];
 
 export const testimonials = [
   {

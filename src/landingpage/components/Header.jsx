@@ -39,9 +39,9 @@ const Header = () => {
   return (
     <div
       data-aos="fade-down"
-      className=" fixed top-0 w-full   z-50 text-black text-base font-medium"
+      className="fixed top-0 w-full z-50 text-black text-base font-medium transition-transform duration-700 ease-out"
     >
-      <div className="py-4  border-x border-b backdrop-blur-sm border-customPurple rounded-b-xl  bg-headerandfooterbg bg-opacity-60   w-[90%] flex justify-between items-center gap-10 mx-auto">
+      <div className="py-2   backdrop-blur-sm  bg-black/70 bg-opacity-60   w-screen flex justify-between items-center gap-10 mx-auto">
         <div className="flex justify-between gap-2 text-white  items-center min-w-fit w-full  mx-5">
           <div className="min-w-fit h-[1rem] md:h-[5.75rem] flex items-center">
             <Link smooth={true} to="banner" className="cursor-pointer">
@@ -67,7 +67,7 @@ const Header = () => {
                 spy={true}
                 smooth={true}
                 offset={-140}
-                duration={3000}
+                duration={1000}
                 activeClass="active-link"
               >
                 {option.name}

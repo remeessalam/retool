@@ -1,16 +1,10 @@
-import React from "react";
-import {
-  appDevelopmentServices,
-  landingpageimages,
-  webDevelopmentServices,
-} from "../../constant";
+import { appDevelopmentServices, webDevelopmentServices } from "../../constant";
 import RoundedHeading from "../../components/RoundedHeading";
-
+// eslint-disable-next-line
 const LandingServices = ({ page }) => {
   const services =
     page === "web" ? webDevelopmentServices : appDevelopmentServices;
 
-  const { ecommerce } = landingpageimages;
   return (
     <div id="services" className="flex justify-center relative">
       <div className="py-10 flex flex-col items-center gap-5 z-10 text-black">

@@ -28,10 +28,10 @@ const AppRouter = createBrowserRouter([
           }}
         />
         <AppLayout />
-        <TawkMessengerReact
+        {/* <TawkMessengerReact
           propertyId="67528a994304e3196aed2726"
           widgetId="1ied6qqlg"
-        />
+        /> */}
       </Suspense>
     ),
 
@@ -84,10 +84,10 @@ const AppRouter = createBrowserRouter([
     path: "/web-development",
     element: (
       <Suspense fallback={<Loader />}>
-        <TawkMessengerReact
+        {/* <TawkMessengerReact
           propertyId="67528a994304e3196aed2726"
           widgetId="1ied6qqlg"
-        />
+        /> */}
         <LandingPage page={"web"} />
       </Suspense>
     ),
@@ -96,10 +96,10 @@ const AppRouter = createBrowserRouter([
     path: "/app-development",
     element: (
       <Suspense fallback={<Loader />}>
-        <TawkMessengerReact
+        {/* <TawkMessengerReact
           propertyId="67528a994304e3196aed2726"
           widgetId="1ied6qqlg"
-        />
+        /> */}
         <LandingPage page={"app"} />
       </Suspense>
     ),
