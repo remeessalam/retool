@@ -134,141 +134,9 @@ export const companyDetails = {
   address: "  Andhra Pradesh ,india- 534236",
   phone: "+91-6300021466",
   whatsapp: "6300021466",
-  link: "🌐 Website: volloinc.com",
-  email: "volloinc@gmail.com",
+  link: "🌐 Website: RETOOL.com",
+  email: "RETOOL@gmail.com",
 };
-// export const ourServices = [
-//   {
-//     id: 1,
-//     img: aiimage,
-//     image: saiimage,
-//     title: "Artificial Intelligence (AI)",
-//     description:
-//       "Unlock the limitless potential of AI-driven solutions at Vollo Inc., where we transform your business operations into intelligent, efficient systems that drive success. With our predictive analytics, we empower you to leverage data insights to anticipate market trends, understand customer behavior, and make informed decisions that enhance your competitive edge. Our intelligent automation solutions streamline workflows, reduce operational costs, and eliminate mundane tasks, enabling your team to focus on strategic initiatives.",
-//     paragraph:
-//       "At Vollo Inc., we provide AI solutions that enhance decision-making, optimize performance, and reduce operational costs through automation, helping you stay ahead in a competitive market.",
-//   },
-//   {
-//     id: 2,
-//     img: mobiledevelopmentimage,
-//     image: smobiledevelopmentimage,
-//     title: "Mobile App Development",
-//     description:
-//       "In today’s mobile-first world, having a dynamic and user-friendly app is a necessity for business success. At Vollo Inc., we craft high-performance mobile applications tailored to meet your business needs. From concept to launch, our expert developers ensure that each app is visually stunning and delivers a seamless user experience, with ongoing support to keep your app relevant and engaging.",
-//     paragraph:
-//       "Transform your business and engage your customers with high-performance mobile apps tailored to your business needs and user expectations.",
-//   },
-//   {
-//     id: 3,
-//     img: webdevelopmentimage,
-//     image: swebdevelopmentimage,
-//     title: "Website Development",
-//     description:
-//       "Your website is the digital face of your business. At Vollo Inc., we specialize in designing responsive, functional websites that captivate visitors and effectively communicate your brand message. With a mobile-first approach, we ensure that your website looks and performs flawlessly across all devices, driving higher engagement and conversions.",
-//     paragraph:
-//       "Create a memorable online presence with responsive and visually stunning websites that engage visitors and drive conversions.",
-//   },
-//   {
-//     id: 4,
-//     img: uiuximage,
-//     image: suiuximage,
-//     title: "UI/UX Design",
-//     description:
-//       "Our design process prioritizes the needs and preferences of your target audience. Through research and collaboration, we create intuitive, visually stunning interfaces that reflect your brand identity and foster user engagement. Our user-centric approach ensures that your interfaces meet expectations and create emotional connections with users.",
-//     paragraph:
-//       "Craft seamless, engaging experiences through user-centric design that not only meets functional requirements but also fosters emotional connections.",
-//   },
-//   {
-//     id: 5,
-//     img: customsoftwareimage,
-//     image: scustomsoftwareimage,
-//     title: "Custom Software Development",
-//     description:
-//       "We begin with an in-depth analysis of your business goals to create software that drives meaningful change. Our iterative development process ensures that the software aligns perfectly with your needs, while our dedicated QA team guarantees reliability through extensive testing.",
-//     paragraph:
-//       "Tailored software solutions that meet your unique business needs, designed and tested for performance, reliability, and scalability.",
-//   },
-//   {
-//     id: 6,
-//     img: dataanalyticsimage,
-//     image: sdataanalyticsimage,
-//     title: "Data Analytics",
-//     description:
-//       "We help you harness the power of data to make strategic decisions that drive growth. Our analytics services transform complex data into actionable insights, utilizing techniques like predictive modeling and data visualization to uncover trends that enhance your competitive edge.",
-//     paragraph:
-//       "Unlock actionable insights from your data, enabling smarter decisions that drive growth and improve operational efficiency.",
-//   },
-//   {
-//     id: 7,
-//     img: iotimage,
-//     image: siotimage,
-//     title: "Internet of Things (IoT)",
-//     description:
-//       "At Vollo Inc., we create IoT solutions that help businesses monitor, control, and improve their processes. From real-time data collection to seamless integration, our IoT technology enhances efficiency across industries like healthcare, manufacturing, and logistics.",
-//     paragraph:
-//       "Transform your business with IoT solutions that provide real-time insights, streamline operations, and improve decision-making.",
-//   },
-//   {
-//     id: 8,
-//     img: roboticautomationimage,
-//     image: sroboticautomationimage,
-//     title: "Robotic Process Automation (RPA)",
-//     description:
-//       "Our RPA solutions automate repetitive tasks, reducing operational costs and freeing up your team to focus on strategic growth. By streamlining workflows and ensuring consistent, error-free results, we help businesses improve efficiency and performance.",
-//     paragraph:
-//       "Enhance productivity and reduce costs by automating mundane tasks with our RPA solutions, allowing your team to focus on strategic initiatives.",
-//   },
-//   {
-//     id: 9,
-//     img: arvrimage,
-//     image: sarvrimage,
-//     title: "Augmented Reality (AR) & Virtual Reality (VR)",
-//     description:
-//       "We offer cutting-edge AR and VR solutions that redefine customer engagement and training experiences. Whether for marketing, product demos, or immersive learning, our solutions captivate audiences and create lasting impressions.",
-//     paragraph:
-//       "Elevate customer engagement and training with immersive AR and VR solutions that offer unforgettable, interactive experiences.",
-//   },
-//   {
-//     id: 10,
-//     img: gamedevelopmentimage,
-//     image: sgamedevelopmentimage,
-//     title: "Game Development",
-//     description:
-//       "Our talented team of game developers creates engaging experiences across platforms. From concept to launch, we bring your game ideas to life with captivating narratives and dynamic gameplay that resonate with players.",
-//     paragraph:
-//       "Craft immersive gaming experiences with our expert team, delivering dynamic and captivating games across multiple platforms.",
-//   },
-//   {
-//     id: 11,
-//     img: blockchainimage,
-//     image: sblockchainimage,
-//     title: "Blockchain Solutions",
-//     description:
-//       "At Vollo Inc., we specialize in blockchain solutions that enhance security, transparency, and trust. Our decentralized technology enables secure transactions, effective data management, and improved traceability, promoting confidence among stakeholders.",
-//     paragraph:
-//       "Leverage blockchain technology to enhance security, transparency, and trust in your operations while ensuring secure transactions.",
-//   },
-//   {
-//     id: 12,
-//     img: cloudserviceimage,
-//     image: scloudserviceimage,
-//     title: "Cloud Services",
-//     description:
-//       "Our cloud computing services empower businesses to thrive by facilitating seamless migration and management. With reliable, fast access to applications and data from any device, our solutions enhance efficiency, reduce costs, and provide scalability.",
-//     paragraph:
-//       "Optimize your business operations with scalable, secure, and efficient cloud services that enhance collaboration and performance.",
-//   },
-//   {
-//     id: 13,
-//     img: cybersecurityimage,
-//     image: scybersecurityimage,
-//     title: "Cybersecurity",
-//     description:
-//       "We provide comprehensive cybersecurity services to protect your business from evolving digital threats. Our proactive approach ensures that your data, networks, and operations remain secure, minimizing risk and ensuring compliance.",
-//     paragraph:
-//       "Protect your business with robust cybersecurity solutions that safeguard your data, networks, and ensure compliance with industry standards.",
-//   },
-// ];
 
 export const ourServices = [
   {
@@ -382,21 +250,21 @@ export const meetCompanyDetails = [
     img: meetcompanyimageone,
     heading: "Innovative Technology Solutions",
     description:
-      "At Vollo Inc., we blend creativity with technical expertise to deliver cutting-edge technology services. From AI-powered tools to user-friendly mobile applications, we craft scalable solutions tailored to your business needs, ensuring efficiency, innovation, and long-term success.",
+      "At RETOOL, we blend creativity with technical expertise to deliver cutting-edge technology services. From AI-powered tools to user-friendly mobile applications, we craft scalable solutions tailored to your business needs, ensuring efficiency, innovation, and long-term success.",
   },
   {
     id: 2,
     img: meetcompanyimagetwo,
     heading: "Empowering Businesses with AI",
     description:
-      "Vollo Inc. transforms challenges into opportunities with AI-driven solutions and tailored strategies. Our scalable platforms and intuitive applications are designed to adapt as your business evolves, driving innovation and growth in the digital age.",
+      "RETOOL transforms challenges into opportunities with AI-driven solutions and tailored strategies. Our scalable platforms and intuitive applications are designed to adapt as your business evolves, driving innovation and growth in the digital age.",
   },
   {
     id: 3,
     img: meetcompanyimagethree,
     heading: "Driving Success with Collaboration",
     description:
-      "Vollo Inc. specializes in delivering customized, future-ready technology solutions. Our team partners with clients to craft AI-powered tools and mobile applications that enhance operations, foster innovation, and unlock new business potential.",
+      "RETOOL specializes in delivering customized, future-ready technology solutions. Our team partners with clients to craft AI-powered tools and mobile applications that enhance operations, foster innovation, and unlock new business potential.",
   },
 ];
 
@@ -406,7 +274,7 @@ export const companyProcess = [
     img: Finetunedsolutionimg,
     title: "Fine-tuned solution",
     description:
-      "At Vollo Inc., we know that every business is unique. That’s why we take the time to understand your specific needs and challenges. Whether you need a custom software application or an AI-driven analytics platform, we craft solutions that fit seamlessly into your operations",
+      "At RETOOL, we know that every business is unique. That’s why we take the time to understand your specific needs and challenges. Whether you need a custom software application or an AI-driven analytics platform, we craft solutions that fit seamlessly into your operations",
   },
   {
     id: 2,
@@ -437,7 +305,7 @@ export const teamMembers = [
 export const faqItems = [
   {
     id: 1,
-    question: "How can I get in touch with Vollo Inc.?",
+    question: "How can I get in touch with RETOOL?",
     answer: `You can reach out to us through the contact form on this page, or by emailing us directly at info@volloinc.com. Alternatively, you can also call us at +91-6300021466 for immediate assistance.`,
   },
   {
@@ -447,8 +315,8 @@ export const faqItems = [
   },
   {
     id: 3,
-    question: "What types of services does Vollo Inc. offer?",
-    answer: `Vollo Inc. offers a wide range of services including:
+    question: "What types of services does RETOOL offer?",
+    answer: `RETOOL offers a wide range of services including:
       - Artificial Intelligence (AI)
       - Mobile App Development
       - Website Development
@@ -466,7 +334,7 @@ export const faqItems = [
   },
   {
     id: 4,
-    question: "How do I schedule a consultation or meeting with Vollo Inc.?",
+    question: "How do I schedule a consultation or meeting with RETOOL?",
     answer: `You can schedule a meeting by filling out the contact form on this page or by sending us an email at <strong>info@volloinc.com</strong>. We’ll get back to you with available time slots.`,
   },
   {
@@ -486,13 +354,13 @@ export const faqItems = [
   },
   {
     id: 8,
-    question: "Where is Vollo Inc. located?",
-    answer: `Vollo Inc. operates remotely, and our team works from various locations around the world. We’re fully capable of supporting clients globally.`,
+    question: "Where is RETOOL located?",
+    answer: `RETOOL operates remotely, and our team works from various locations around the world. We’re fully capable of supporting clients globally.`,
   },
   {
     id: 9,
     question: "What industries do you specialize in?",
-    answer: `Vollo Inc. has worked with clients across multiple industries, including:
+    answer: `RETOOL has worked with clients across multiple industries, including:
       - Tech
       - Healthcare
       - Finance
@@ -502,18 +370,18 @@ export const faqItems = [
   },
   {
     id: 10,
-    question: "Can I work with Vollo Inc. from any country?",
-    answer: `Absolutely! Vollo Inc. works with clients globally. Thanks to our remote setup, we are able to serve businesses in different time zones and regions efficiently.`,
+    question: "Can I work with RETOOL from any country?",
+    answer: `Absolutely! RETOOL works with clients globally. Thanks to our remote setup, we are able to serve businesses in different time zones and regions efficiently.`,
   },
   {
     id: 11,
-    question: "How do I track the progress of my project with Vollo Inc.?",
+    question: "How do I track the progress of my project with RETOOL?",
     answer: `We provide regular project updates through email, meetings, or our project management platform. You will have access to track the status and milestones of your project.`,
   },
   {
     id: 12,
-    question: "What makes Vollo Inc. different from other companies?",
-    answer: `At Vollo Inc., we focus on delivering cutting-edge, custom solutions tailored to your business needs. Our approach combines deep industry expertise with a focus on innovation and customer satisfaction, ensuring we always exceed expectations.`,
+    question: "What makes RETOOL different from other companies?",
+    answer: `At RETOOL, we focus on delivering cutting-edge, custom solutions tailored to your business needs. Our approach combines deep industry expertise with a focus on innovation and customer satisfaction, ensuring we always exceed expectations.`,
   },
 ];
 
@@ -524,7 +392,7 @@ export const faqItems = [
 //     starimg: fullstart,
 //     name: "Rachel B.",
 //     position: "CTO",
-//     says: "Vollo Inc.'s AI solutions have been revolutionary for our business. Their deep understanding of AI and machine learning helped us optimize our processes and make smarter decisions, saving both time and resources. The impact has been immediate and measurable!",
+//     says: "RETOOL's AI solutions have been revolutionary for our business. Their deep understanding of AI and machine learning helped us optimize our processes and make smarter decisions, saving both time and resources. The impact has been immediate and measurable!",
 //     about: "Artificial Intelligence (AI)",
 //   },
 //   {
@@ -533,7 +401,7 @@ export const faqItems = [
 //     starimg: fullstart,
 //     name: "James T.",
 //     position: "Founder",
-//     says: "We were impressed with how quickly Vollo Inc. understood our vision and transformed it into a user-friendly mobile app. Their team was collaborative and responsive, and the end result has truly enhanced our customer engagement.",
+//     says: "We were impressed with how quickly RETOOL understood our vision and transformed it into a user-friendly mobile app. Their team was collaborative and responsive, and the end result has truly enhanced our customer engagement.",
 //     about: "Mobile App Development",
 //   },
 //   {
@@ -542,7 +410,7 @@ export const faqItems = [
 //     starimg: fullstart,
 //     name: "Linda P.",
 //     position: "Marketing Director",
-//     says: "Our website went from basic to outstanding thanks to Vollo Inc. The team not only delivered a stunning and functional design, but they also ensured it was mobile-friendly and optimized for SEO. It has significantly boosted our online traffic.",
+//     says: "Our website went from basic to outstanding thanks to RETOOL The team not only delivered a stunning and functional design, but they also ensured it was mobile-friendly and optimized for SEO. It has significantly boosted our online traffic.",
 //     about: "Website Development",
 //   },
 //   {
@@ -551,7 +419,7 @@ export const faqItems = [
 //     starimg: fullstart,
 //     name: "David F.",
 //     position: "Head of Product Design",
-//     says: "Working with Vollo Inc. on UI/UX design was an amazing experience. They really listened to our needs and created a beautiful, intuitive design that’s easy for our users to navigate. The result speaks for itself—our customer satisfaction scores have skyrocketed!",
+//     says: "Working with RETOOL on UI/UX design was an amazing experience. They really listened to our needs and created a beautiful, intuitive design that’s easy for our users to navigate. The result speaks for itself—our customer satisfaction scores have skyrocketed!",
 //     about: "UI/UX Design",
 //   },
 //   {
@@ -560,7 +428,7 @@ export const faqItems = [
 //     starimg: fullstart,
 //     name: "Priya M.",
 //     position: "Operations Manager",
-//     says: "Vollo Inc. delivered custom software that was precisely what we needed to run our business efficiently. The team worked closely with us to understand our unique challenges and created a solution that fits perfectly into our workflow.",
+//     says: "RETOOL delivered custom software that was precisely what we needed to run our business efficiently. The team worked closely with us to understand our unique challenges and created a solution that fits perfectly into our workflow.",
 //     about: "Custom Software Development",
 //   },
 //   {
@@ -569,7 +437,7 @@ export const faqItems = [
 //     starimg: fullstart,
 //     name: "Oscar L.",
 //     position: "CEO",
-//     says: "The data analytics services from Vollo Inc. were invaluable. Their team helped us turn our raw data into actionable insights, enabling us to improve our marketing efforts and operational efficiency. The results speak for themselves!",
+//     says: "The data analytics services from RETOOL were invaluable. Their team helped us turn our raw data into actionable insights, enabling us to improve our marketing efforts and operational efficiency. The results speak for themselves!",
 //     about: "Data Analytics",
 //   },
 //   {
@@ -578,7 +446,7 @@ export const faqItems = [
 //     starimg: fullstart,
 //     name: "Sophia J.",
 //     position: "VP of Operations",
-//     says: "Vollo Inc. helped us implement IoT solutions that transformed how we monitor and manage our equipment. The real-time data and improved visibility into our operations have made a huge difference in our efficiency and decision-making.",
+//     says: "RETOOL helped us implement IoT solutions that transformed how we monitor and manage our equipment. The real-time data and improved visibility into our operations have made a huge difference in our efficiency and decision-making.",
 //     about: "Internet of Things (IoT)",
 //   },
 //   {
@@ -587,7 +455,7 @@ export const faqItems = [
 //     starimg: fullstart,
 //     name: "Chris D.",
 //     position: "Head of Business Operations",
-//     says: "Thanks to Vollo Inc., we’ve automated several time-consuming processes, freeing up our team to focus on strategic work. Their RPA solution is seamless and highly effective—everything runs more smoothly now.",
+//     says: "Thanks to RETOOL, we’ve automated several time-consuming processes, freeing up our team to focus on strategic work. Their RPA solution is seamless and highly effective—everything runs more smoothly now.",
 //     about: "Robotic Process Automation (RPA)",
 //   },
 //   {
@@ -596,7 +464,7 @@ export const faqItems = [
 //     starimg: fullstart,
 //     name: "Zara N.",
 //     position: "Marketing Executive",
-//     says: "Vollo Inc.’s AR and VR solutions were a game-changer for our marketing strategy. The interactive experiences they created have not only boosted customer engagement but also helped us educate our clients in a whole new way.",
+//     says: "RETOOL’s AR and VR solutions were a game-changer for our marketing strategy. The interactive experiences they created have not only boosted customer engagement but also helped us educate our clients in a whole new way.",
 //     about: "Augmented Reality (AR) & Virtual Reality (VR)",
 //   },
 //   {
@@ -605,7 +473,7 @@ export const faqItems = [
 //     starimg: fullstart,
 //     name: "Toby H.",
 //     position: "Co-Founder",
-//     says: "The game development team at Vollo Inc. brought our vision to life with incredible creativity and technical expertise. Our game is now one of the top downloads in our category, and we’ve received fantastic feedback from players.",
+//     says: "The game development team at RETOOL brought our vision to life with incredible creativity and technical expertise. Our game is now one of the top downloads in our category, and we’ve received fantastic feedback from players.",
 //     about: "Game Development",
 //   },
 //   {
@@ -614,7 +482,7 @@ export const faqItems = [
 //     starimg: fullstart,
 //     name: "Liam W.",
 //     position: "Founder",
-//     says: "Vollo Inc. introduced us to blockchain solutions that enhanced the security and transparency of our transactions. Their expertise in the space helped us develop a system that is both efficient and highly secure.",
+//     says: "RETOOL introduced us to blockchain solutions that enhanced the security and transparency of our transactions. Their expertise in the space helped us develop a system that is both efficient and highly secure.",
 //     about: "Blockchain Solutions",
 //   },
 //   {
@@ -623,7 +491,7 @@ export const faqItems = [
 //     starimg: fullstart,
 //     name: "Alicia M.",
 //     position: "CIO",
-//     says: "We’ve been using Vollo Inc.’s cloud services for months now, and the difference is incredible. Our operations are smoother, collaboration has improved, and the scalability of the platform ensures that we’re ready for whatever comes next.",
+//     says: "We’ve been using RETOOL’s cloud services for months now, and the difference is incredible. Our operations are smoother, collaboration has improved, and the scalability of the platform ensures that we’re ready for whatever comes next.",
 //     about: "Cloud Services",
 //   },
 //   {
@@ -632,7 +500,7 @@ export const faqItems = [
 //     starimg: fullstart,
 //     name: "Frank L.",
 //     position: "IT Manager",
-//     says: "Vollo Inc. has provided us with robust cybersecurity solutions that keep our data safe and secure. We now have peace of mind knowing that our systems are protected against emerging threats, and their proactive approach to security is invaluable.",
+//     says: "RETOOL has provided us with robust cybersecurity solutions that keep our data safe and secure. We now have peace of mind knowing that our systems are protected against emerging threats, and their proactive approach to security is invaluable.",
 //     about: "Cybersecurity",
 //   },
 // ];
@@ -812,7 +680,7 @@ export const whyChooseUs = [
     icon: target,
     heading: "Customer-Centric Approach: Your Vision, Our Mission",
     description:
-      "At Vollo Inc., you are not just a client; you are our top priority. We are dedicated to forging strong partnerships that allow us to deeply understand your unique needs and aspirations. Our team collaborates with you every step of the way, ensuring that we deliver tailored solutions that seamlessly integrate with your business. With a focus on personalization and excellence, we empower you to achieve your goals and thrive in today’s dynamic marketplace. Your success is our mission, and we are here to make it happen.",
+      "At RETOOL, you are not just a client; you are our top priority. We are dedicated to forging strong partnerships that allow us to deeply understand your unique needs and aspirations. Our team collaborates with you every step of the way, ensuring that we deliver tailored solutions that seamlessly integrate with your business. With a focus on personalization and excellence, we empower you to achieve your goals and thrive in today’s dynamic marketplace. Your success is our mission, and we are here to make it happen.",
   },
   {
     id: 3,

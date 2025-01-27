@@ -25,12 +25,12 @@ const Aboutus = () => {
               Innovating Technology, Empowering Businesses
             </h2>
             <p className="text-desc mt-4">
-              At Vollo Inc., we pride ourselves on being pioneers at the
-              forefront of technological innovation. Our mission is to deliver
+              At RETOOL, we pride ourselves on being pioneers at the forefront
+              of technological innovation. Our mission is to deliver
               world-class, tailor-made technology solutions that empower
               businesses to excel in the ever-evolving digital landscape.
               Whether you are an ambitious startup or an established enterprise,
-              Vollo Inc. is your ultimate technology partner. With a team of
+              RETOOL is your ultimate technology partner. With a team of
               seasoned experts possessing deep insights into industry trends, we
               specialize in crafting customized solutions by harnessing the
               power of Artificial Intelligence. Every challenge is approached

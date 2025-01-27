@@ -27,8 +27,8 @@ const About = () => {
               Empowering Growth Through Innovative Technology
             </h1>
             <p className="text-desc">
-              At Vollo Inc., we craft innovative, AI-driven technology solutions
-              to help businesses overcome challenges, achieve excellence, and
+              At RETOOL, we craft innovative, AI-driven technology solutions to
+              help businesses overcome challenges, achieve excellence, and
               unlock sustainable growth in the digital age.
             </p>
           </div>

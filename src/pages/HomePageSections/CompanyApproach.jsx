@@ -31,7 +31,7 @@ const CompanyApproach = () => {
               Meet our process
             </h4>
             <p data-aos="fade-up" className="max-w-full text-desc text-start">
-              At Vollo Inc., we believe that the key to success lies in
+              At RETOOL, we believe that the key to success lies in
               collaboration and understanding. We don’t just offer services; we
               build partnerships. Our holistic approach ensures that we become
               an integral part of your team, working hand-in-hand to align our

@@ -16,7 +16,7 @@ const AboutusPage = () => {
         title={"About Company"}
         page="About us"
         heading="Empowering Businesses Through Innovation"
-        description="At Vollo Inc., we are dedicated to providing bespoke technology solutions that empower businesses to thrive in the dynamic digital landscape. Leveraging expertise in Artificial Intelligence, we craft innovative, scalable systems that drive efficiency, growth, and lasting success through collaboration and tailored strategies."
+        description="At RETOOL, we are dedicated to providing bespoke technology solutions that empower businesses to thrive in the dynamic digital landscape. Leveraging expertise in Artificial Intelligence, we craft innovative, scalable systems that drive efficiency, growth, and lasting success through collaboration and tailored strategies."
       />
       <Aboutus />
       <CompanyAchievements />

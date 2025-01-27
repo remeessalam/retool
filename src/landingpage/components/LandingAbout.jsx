@@ -34,8 +34,8 @@ const LandingAbout = ({ page }) => {
               </h2>
               <p className="text-desc">
                 {isWebDevelopment
-                  ? "At VOLLO INC , we specialize in delivering high-performance websites and digital platforms that help businesses thrive online. From custom web development to responsive design, we build solutions that are both user-friendly and visually stunning. Let's turn your vision into a reality."
-                  : "At VOLLO INC , we specialize in creating intuitive, high-performing mobile applications tailored to meet the unique needs of businesses across industries. Our expert team combines technical expertise with creative design to develop apps that drive engagement and growth."}
+                  ? "At RETOOL , we specialize in delivering high-performance websites and digital platforms that help businesses thrive online. From custom web development to responsive design, we build solutions that are both user-friendly and visually stunning. Let's turn your vision into a reality."
+                  : "At RETOOL , we specialize in creating intuitive, high-performing mobile applications tailored to meet the unique needs of businesses across industries. Our expert team combines technical expertise with creative design to develop apps that drive engagement and growth."}
               </p>
             </div>
             <div className="flex sm:flex-row flex-col justify-center lg:justify-start gap-5 mt-4">

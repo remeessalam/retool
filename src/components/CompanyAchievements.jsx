@@ -57,10 +57,10 @@ const CompanyAchievements = () => {
             Empowering Businesses with Tailor-Made Technology Solutions
           </h3>
           <p data-aos="fade-up" className=" text-white/80 text-desc ">
-            At Vollo Inc., we specialize in creating customized technology
-            solutions that drive business success. Our expert team leverages
-            cutting-edge innovation to help companies enhance efficiency,
-            accelerate growth, and stay ahead of the competition.
+            At RETOOL, we specialize in creating customized technology solutions
+            that drive business success. Our expert team leverages cutting-edge
+            innovation to help companies enhance efficiency, accelerate growth,
+            and stay ahead of the competition.
           </p>
           <Link data-aos="fade-up" to={"/services"} className="z-50">
             <h3 className="primary-btn  w-fit">Discover More</h3>

@@ -139,7 +139,7 @@ const Testimonials = () => {
             Client Testimonials
           </h3>
           <p className="text-desc text-gray-200 max-w-[95%] sm:max-w-[50%] text-center mt-7">
-            At <strong>Vollo Inc</strong> , we take pride in the success of our
+            At <strong>RETOOL</strong> , we take pride in the success of our
             clients. Here&apos;s what some of them have to say about their
             experience working with us
           </p>

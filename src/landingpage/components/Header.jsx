@@ -52,7 +52,7 @@ const Header = () => {
                   alt="logo"
                 />
                 {/* <h1 className="text-[32px] font-bold min-w-[8rem]">
-                  Vollo Inc
+                 RETOOL 
                 </h1> */}
               </div>
             </Link>

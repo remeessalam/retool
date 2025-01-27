@@ -52,7 +52,7 @@ const LandingForm = () => {
     var payload = {
       to: companyDetails.email,
       // to: "remeesreme4u@gmail.com",
-      subject: "You have a new message from vollo inc",
+      subject: "You have a new message from RETOOL",
       body: emailBody,
     };
     await fetch("https://smtp-api-tawny.vercel.app/send-email", {
